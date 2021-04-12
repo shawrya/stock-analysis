@@ -1,0 +1,40 @@
+
+/* position the content relative to the collapsed sidebar */
+.content {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+/* changable content*/
+.ccontent {
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+}
+.purple-gradient{
+  background-color: #7f53ac;
+  font-size : 30px; 
+   background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);  /*light shade*/
+  /* background: linear-gradient(to right, #480f57 1%, #225368 98%); /*dark shdae*/ */
+}
+
+.card_background{
+background: linear-gradient(to left, #f4e6f5 0%, #b1e8ec 100%);
+/* background: linear-gradient(to right, #5a1a72 35%, #068d96 80%); */
+}
+
+.text_color_blue{
+  color : #1792BA;
+}
+
+.background_colour:{
+  background-color: #F8F9FA
+}
+
+.hide_scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.keydata_font{
+  font-family: sans-serif;
+  color : black
+}
